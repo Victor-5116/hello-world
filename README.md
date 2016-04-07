@@ -1,2 +1,2 @@
 # hello-world
-Victor's Hello World Project
+Victor Myo's Hello World Project
